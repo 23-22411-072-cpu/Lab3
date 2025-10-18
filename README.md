@@ -12,4 +12,9 @@
 # This is a new local line for rebase test.
 
 # This is a new line.
+
 # This line is for exam questions.
+
+# A new line added for task7.
+# This line is added for Exam evaluation questin 1.
+
