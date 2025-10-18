@@ -2,7 +2,9 @@
 
 # This line was added locally.
 
-# This line was updated remotely again.
+
+# This line was updated both locally and remotely.
+
 
 
 # This is a new remote line for rebase test.
