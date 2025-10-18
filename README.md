@@ -1,6 +1,10 @@
 # Lab3
 
+
 # This line was added for q3 exam task.
+
+# This is a line added for q3.
+
 
 
 # This line was updated both locally and remotely.
