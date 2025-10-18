@@ -11,3 +11,4 @@
 
 # This is a new local line for rebase test.
 
+# This is a test line for reset demonstration.
